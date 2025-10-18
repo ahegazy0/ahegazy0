@@ -44,7 +44,7 @@
 <h2 align="center">⚒️ <i>Languages, Frameworks & Tools</i> </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,java,postman,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,postman,git,github,jest" /><br>
 </div>
 
 <br/>
