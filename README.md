@@ -34,8 +34,8 @@
   <a href="https://linkedin.com/in/abdulrahman-hegazy0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.github.com/ahegazy0" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="https://abdulrahman-hegazy-portfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" target="_blank" />
   </a>
 </div>
 
