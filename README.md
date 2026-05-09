@@ -14,12 +14,6 @@
 
 🎯 I’m a passionate **Backend Developer** with a growing interest in **Cybersecurity**.
 
-🧠 Currently deepening my skills in **TypeScript**, **Design Patterns**, and **Unit Testing**.
-
-🛠️ Proficient with **Node.js**, **Express**, and **MongoDB**.
-
-📫 You can reach me by opening an [issue here](https://github.com/ahegazy0/ahegazy0/issues)
-
 💡 **Philosophy:**<i> Think like an exploit. Build like a patch.</i>
 
 
