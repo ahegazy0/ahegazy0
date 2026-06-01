@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulrahman+Hegazy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=600&size=42&center=true&vCenter=true&width=700&height=90&duration=3500&pause=1200&color=36BCF7&repeat=true&lines=Hi+There!+👋;+I'm+Abdulrahman+Hegazy!;" />
 </h1>
 
 <h3 align="center">
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ <i>Languages, Frameworks & Tools</i> </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,java,postman,git,github,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,javascript,python,bash,nodejs,express,dotnet,mongodb,linux,arduino,git,postman" /><br>
 </div>
 
 <br/>
@@ -58,12 +58,7 @@
 
 <div align="center">
 
-## 🎯 <i>Current Focus</i>
 
- I'm currently focused on improving my skills in **scalable backend architecture**, **testing strategies**, and **TypeScript**.  
-I'm open to **internships**, **collaborations**, and <strong>freelance opportunities</strong> in backend development.
-
-</div>
 
 
 
