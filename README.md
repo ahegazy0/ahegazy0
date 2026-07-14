@@ -10,16 +10,6 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-🎯 I’m a passionate **Backend Developer** with a growing interest in **Cybersecurity**.
-
-💡 **Philosophy:**<i> Think like an exploit. Build like a patch.</i>
-
-
- </div>
- <br/>
-
 
 <div align="center"> 
   <a href="mailto:a.0hegazy@proton.me">
