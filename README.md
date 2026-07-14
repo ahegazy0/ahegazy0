@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=600&size=42&center=true&vCenter=true&width=700&height=90&duration=3500&pause=1200&color=36BCF7&repeat=true&lines=Hi+There!+👋;+I'm+Abdulrahman+Hegazy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=600&size=42&center=true&vCenter=true&width=700&height=90&duration=3500&pause=1200&color=36BCF7&repeat=true&lines=Hi+There!+👋;+I'm+Abdulrahman+Hegazy!;Computer+Engineering+Student;" />
 </h1>
 
 <div align="center">
