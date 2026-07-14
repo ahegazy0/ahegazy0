@@ -20,7 +20,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ <i>Languages, Frameworks & Tools</i> </h2>
+<h2 align="center">⚒️ <i>Skills</i> </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cpp,cs,javascript,python,bash,nodejs,express,dotnet,mongodb,linux,arduino,git,postman" /><br>
