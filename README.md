@@ -74,7 +74,7 @@ I'm continuously improving my skills by working with different programming langu
 
 <p align="center">
   <img
-    src="./assets/footer.gif"
+    src="./footer.jpeg"
     width="1000"
     height="150"
     alt="Footer Banner"
