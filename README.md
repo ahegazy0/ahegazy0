@@ -18,9 +18,9 @@ src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-
 alt="Coding GIF"
 />
 
-I'm **Abdulrahman Hegazy**, a Computer Engineering student passionate about software development, backend engineering, and building practical solutions.
+I'm **Abdulrahman Hegazy**, a Computer Engineering student who enjoys understanding how things work and building them from the ground up.
 
-I'm continuously improving my skills by working with different programming languages, backend technologies, databases, Linux, and development tools.
+Currently focused on **backend development**, while building a strong foundation in programming, problem solving, databases, Linux, networking, and **web security**.
 
 ### 🔗 Find Me
 
