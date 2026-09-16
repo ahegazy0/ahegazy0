@@ -40,47 +40,29 @@ Currently focused on **backend development**, while building a strong foundation
   <a href="https://www.facebook.com/abdulrahman.hegazy.3301" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+
+  <a href="https://leetcode.com/u/ahegazy0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
+  </a>
 </p>
 
 <br clear="right"/>
 
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
+## 💻 Technial Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,bash,nodejs,fastapi,mongodb,postgresql,mysql,redis,git,postman,docker,linux&perline=7" alt="Skills" />
 </p>
 
-### ⚙️ Backend & Frameworks
+## 🏆 GitHub Trophies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies" />
+<p align="center">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=ahegazy0&theme=flat&no-bg=true&no-frame=true&row=1&column=7">
 </p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Databases" />
-</p>
-
-### 🔧 Tools & Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,linux,docker" alt="Development Tools" />
-</p>
-
-<!-- Footer Banner -->
 
 <p align="center">
   <img
-    src="./footer.jpeg"
-    width="1000"
-    height="150"
-    alt="Footer Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
+    width="100%"
   />
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! ⭐</i>
 </p>
