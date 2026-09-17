@@ -60,6 +60,16 @@ Currently focused on **backend development**, while building a strong foundation
   <img src="https://github-profile-trophy-ahmed.vercel.app/?username=ahegazy0&theme=flat&no-bg=true&no-frame=true&row=1&column=7">
 </p>
 
+---
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahegazy0/ahegazy0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahegazy0/ahegazy0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahegazy0/ahegazy0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
